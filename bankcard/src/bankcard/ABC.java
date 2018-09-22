@@ -1,7 +1,8 @@
 package bankcard;
-//Å©ĞĞ½Ó¿Ú
+//å†œè¡Œæ¥å£
 public interface ABC extends UnionPay{
-	//Ö§¸¶µç»°·Ñ¹¦ÄÜ
+	//æ”¯ä»˜ç”µè¯è´¹åŠŸèƒ½
 	//123
+	//hello word
 	public boolean payTelPhone(String phoneNum,double num);
 }
